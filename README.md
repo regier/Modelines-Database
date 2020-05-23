@@ -36,7 +36,7 @@ In the folder **Modelines** You will find a folder for each **brand** and in eac
 
 ### Example
 HP-L1506-T560KC4DKHHPNP-Factory-Modelines.txt
-HP-L1506-T560KC4DKHHPNP-Factory-Modelines.txt
+HP-L1506-T560KC4DKHHPNP-Overclock-Modelines.txt
 
 Samsung-SF354-LS24F354FHNXZA-Factory-Modelines.txt
 SONY-Bravia-FWD-32WE615-Factory-Modelines.txt
