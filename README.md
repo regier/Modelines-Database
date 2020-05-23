@@ -35,8 +35,8 @@ The repo is orgnized as it follows.
 In the folder **Modelines** You will find a folder for each **brand** and in each brand folder a folder per **display model**. In the display model folder you find files following the naming convention "*Brand*-*MonitorModel*-*ModelCode*(Optional)-*factory*-Modelines.txt" for factory specifications and "*Brand*-*MonitorModel*-*ModelCode*(Optional)-Overclock*-Modelines.txt" for when we want to push the limits.
 
 ### Example
-HP-L1506-T560KC4DKHHPNP-Factory.txt
-HP-L1506-T560KC4DKHHPNP-Factory.txt
+HP-L1506-T560KC4DKHHPNP-Factory-Modelines.txt
+HP-L1506-T560KC4DKHHPNP-Factory-Modelines.txt
 
-Samsung-SF354-LS24F354FHNXZA-Factory.txt
-SONY-Bravia-FWD-32WE615-Factory.txt
+Samsung-SF354-LS24F354FHNXZA-Factory-Modelines.txt
+SONY-Bravia-FWD-32WE615-Factory-Modelines.txt
